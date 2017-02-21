@@ -4,6 +4,7 @@
       <mapping pattern="test2" type="PLAIN_TEXT" />
       <mapping pattern="gitignore" type="PLAIN_TEXT" />
       <mapping pattern="Test.txt" type="PLAIN_TEXT" />
+      <mapping pattern="bla" type="PLAIN_TEXT" />
       <mapping pattern="GitTest" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
